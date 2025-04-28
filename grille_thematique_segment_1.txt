@@ -1,0 +1,70 @@
+Voici une grille thématique avec trois colonnes : thème, code, verbatim. Chaque thème comporte environ 10 codes, chacun illustré par un extrait pertinent du texte.
+
+**Thème 1 : Présentation et contexte**
+
+* Code 1.1 : Introduction à l'entretien
+ + Verbatim : "Donc j'ai démarré l’enregistrement maintenant, je sais que tout fonctionne bien."
+* Code 1.2 : Présentation de l'enquêté
+ + Verbatim : "Je m’appelle Evan, je suis en première année à SciencePo..."
+* Code 1.3 : Contexte de l'entretien
+ + Verbatim : "On aura fini avant ouais normalement..."
+* Code 1.4 : Objectif de l'entretien
+ + Verbatim : "Le premier point ça sera la vision personnelle de chatGPT et le rapport à l'outil."
+* Code 1.5 : Durée de l'entretien
+ + Verbatim : "Normalement l'entretien devrait se faire entre 1h et 1h30 maximum."
+* Code 1.6 : Structure de l'entretien
+ + Verbatim : "Il y a 6 parties différentes..."
+* Code 1.7 : Présentation de l'enquêté (âge)
+ + Verbatim : "J’ai 18 ans. Je vais sur mes 19."
+* Code 1.8 : Présentation de l'enquêté (formation)
+ + Verbatim : "J'ai intégré à SciencePo parce que c'était mon premier choix..."
+* Code 1.9 : Présentation de l'enquêté (objectif)
+ + Verbatim : "Je partirai plus à mon sens sur les métiers de la défense et des armées."
+* Code 1.10 : Présentation de l'enquêté (intérêts)
+ + Verbatim : "Je m'intéressais à savoir quand on entre à SciencePo, on en a environ 4 ans pour décider ce que l'on veut faire..."
+
+**Thème 2 : Intelligence artificielle et ChatGPT**
+
+* Code 2.1 : Définition de l'intelligence artificielle
+ + Verbatim : "Je décrivais l'IA de manière générale comme..."
+* Code 2.2 : Définition de ChatGPT
+ + Verbatim : "Pour moi, la chose est venue à une façon assez étrangère..."
+* Code 2.3 : Utilisation de ChatGPT
+ + Verbatim : "J’avais commencé à m'en servir entre guillemets pour la blague..."
+* Code 2.4 : Évolution de l'intelligence artificielle
+ + Verbatim : "Actuellement, enfin, après, moi, je ne sais pas, tu es surement mieux que moi pour en parler mais les IAs génératives à mon sens ont pris une place qui est assez conséquente..."
+* Code 2.5 : Impact de l'intelligence artificielle
+ + Verbatim : "C'est devenu entre autres un enjeu, et ça pour le coup ça m’étonne, des enjeux assez conséquents pour les gouvernements..."
+* Code 2.6 : Utilisation de l'intelligence artificielle dans la défense
+ + Verbatim : "Il y a un réel effort qui est en train d'être investi, d'être fait par le ministères des armées pour justement investir sur des IA avec des usages..."
+* Code 2.7 : Éthique de l'intelligence artificielle
+ + Verbatim : "Éthiquement, par le éthique, j’y pensais tout à l’heure vis-à-vis de l’interview..."
+* Code 2.8 : Conséquences de l'intelligence artificielle
+ + Verbatim : "Oui éthiquement, par le éthique, j’y pensais tout à l’heure vis-à-vis de l’interview..."
+* Code 2.9 : Future de l'intelligence artificielle
+ + Verbatim : "Je pense que c'est un exemple j'ai vu une interview d'un pilote de refighters..."
+* Code 2.10 : Impact de l'intelligence artificielle sur la société
+ + Verbatim : "C'est quelque chose qui peut être vraiment très... Comment dire ? Qui peut faire vraiment peur."
+
+**Thème 3 : Perception et utilisation de ChatGPT**
+
+* Code 3.1 : Perception de ChatGPT
+ + Verbatim : "Pour moi, la chose est venue à une façon assez étrangère..."
+* Code 3.2 : Utilisation de ChatGPT
+ + Verbatim : "J’avais commencé à m'en servir entre guillemets pour la blague..."
+* Code 3.3 : Intérêt pour ChatGPT
+ + Verbatim : "Je m'intéressais à savoir quand on entre à SciencePo, on en a environ 4 ans pour décider ce que l'on veut faire..."
+* Code 3.4 : Limites de ChatGPT
+ + Verbatim : "Actuellement, enfin, après, moi, je ne sais pas, tu es surement mieux que moi pour en parler mais les IAs génératives à mon sens ont pris une place qui est assez conséquente..."
+* Code 3.5 : Éthique de l'utilisation de ChatGPT
+ + Verbatim : "Éthiquement, par le éthique, j’y pensais tout à l’heure vis-à-vis de l’interview..."
+* Code 3.6 : Conséquences de l'utilisation de ChatGPT
+ + Verbatim : "Oui éthiquement, par le éthique, j’y pensais tout à l’heure vis-à-vis de l’interview..."
+* Code 3.7 : Future de l'utilisation de ChatGPT
+ + Verbatim : "Je pense que c'est un exemple j'ai vu une interview d'un pilote de refighters..."
+* Code 3.8 : Impact de l'utilisation de ChatGPT sur la société
+ + Verbatim : "C'est quelque chose qui peut être vraiment très... Comment dire ? Qui peut faire vraiment peur."
+* Code 3.9 : Perception de l'intelligence artificielle en général
+ + Verbatim : "Je décrivais l'IA de manière générale comme..."
+* Code 3.10 : Évolution de la perception de ChatGPT
+ + Verbatim : "Actuellement, enfin, après, moi, je ne sais pas, tu es surement mieux que moi pour en parler mais les IAs génératives à mon sens ont pris une place qui est assez conséquente..."

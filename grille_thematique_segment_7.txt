@@ -1,0 +1,48 @@
+Je vais vous proposer une grille thématique avec trois colonnes : thème, code, verbatim. Chaque thème comporte environ 10 codes, chacun illustré par un extrait pertinent du texte.
+
+**Thème 1 : L'impact de l'IA sur l'éducation**
+
+| Code | Verbatim |
+| --- | --- |
+| 1.1 | "Je pense que oui" (réponse à la question sur la transformation des pratiques d'apprentissage) |
+| 1.2 | "L'IA est vouée à compléter les professeurs, les raisonnements" |
+| 1.3 | "Un professeur puisse préparer son cours avec de l’IA, ça me semble tout sauf réeliste" |
+| 1.4 | "Je ne peux pas imaginer une éducation sans usage de l'IA" |
+| 1.5 | "Les outils comme ChatGPT, vont transformer les pratiques d'apprentissage" |
+| 1.6 | "L'IA peut aider les étudiants à synthétiser leurs notes et leurs cours" |
+| 1.7 | "Je redoute que les étudiants ne se fient qu'à l'IA et oublient les vieilles méthodes" |
+| 1.8 | "L'IA peut aider les professeurs à préparer leurs cours" |
+| 1.9 | "Je pense que l'IA peut être un outil pour améliorer l'éducation" |
+| 1.10 | "L'IA peut aider les étudiants à mieux comprendre les notions" |
+
+**Thème 2 : Les limites et les inconvénients de l'IA**
+
+| Code | Verbatim |
+| --- | --- |
+| 2.1 | "Je redoute que l'IA ne devienne un nouveau dieu" |
+| 2.2 | "Les gens peuvent devenir dépendants de l'IA" |
+| 2.3 | "L'IA peut prendre la place de la vie réelle" |
+| 2.4 | "Je me pose la question de savoir si l'IA ne va pas nous faire perdre notre capacité à réfléchir" |
+| 2.5 | "L'IA peut nous faire oublier les vieilles méthodes" |
+| 2.6 | "Je redoute que les étudiants ne perdent leur curiosité et leur créativité" |
+| 2.7 | "L'IA peut nous faire perdre notre capacité à communiquer avec les autres" |
+| 2.8 | "Je pense que l'IA peut être un outil qui nous fait perdre notre humanité" |
+| 2.9 | "L'IA peut nous faire oublier l'importance de la réflexion et de la critique" |
+| 2.10 | "Je redoute que l'IA ne devienne un outil de contrôle" |
+
+**Thème 3 : Les suggestions pour améliorer l'intégration de l'IA dans l'éducation**
+
+| Code | Verbatim |
+| --- | --- |
+| 3.1 | "Je pense que l'IA peut aider les étudiants à synthétiser leurs notes et leurs cours" |
+| 3.2 | "L'IA peut aider les professeurs à préparer leurs cours" |
+| 3.3 | "Je propose que l'IA soit utilisée pour aider les étudiants à améliorer leur compréhension" |
+| 3.4 | "L'IA peut aider les étudiants à développer leurs compétences en réflexion et en critique" |
+| 3.5 | "Je pense que l'IA peut être un outil pour améliorer l'éducation, mais il faut être prudent" |
+| 3.6 | "L'IA peut aider les étudiants à mieux comprendre les notions et les concepts" |
+| 3.7 | "Je propose que l'IA soit utilisée pour aider les étudiants à améliorer leur capacité à résoudre des problèmes" |
+| 3.8 | "L'IA peut aider les professeurs à personnaliser l'enseignement" |
+| 3.9 | "Je pense que l'IA peut être un outil pour améliorer la communication entre les étudiants et les professeurs" |
+| 3.10 | "L'IA peut aider les étudiants à développer leurs compétences en travail en équipe" |
+
+Je vous espère que cette grille thématique vous est utile ! N'hésitez pas à me poser des questions si vous avez besoin de plus de précisions.
